@@ -2,7 +2,7 @@
 Yorkville Walking Tour
 ===
 
-![German Yorkville Highlights](../images/Yorkville map.jpg)
+![German Yorkville Highlights](../images/Yorkvillemap.jpg)
 
 
 **Schaller & Weber**
