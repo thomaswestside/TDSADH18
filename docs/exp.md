@@ -6,4 +6,4 @@ baz</p>
 </blockquote>
 
 
-<p><img src="/url" alt="foo" title="title" /></p>
+
