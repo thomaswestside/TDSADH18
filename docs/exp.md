@@ -6,8 +6,3 @@ baz</p>
 </blockquote>
 
 
-<pre>a simple
-  indented code block
-</pre>
-
-
