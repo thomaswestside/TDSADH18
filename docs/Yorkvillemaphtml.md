@@ -7,9 +7,7 @@
 <meta charset="utf-8">  
     		
 		
-<title>       
-Yorkville 
-</title> 
+<title>Yorkville</title> 
 		
 <link href="../styles/StyleDMT.css" rel="stylesheet" type="text/css">
 			
