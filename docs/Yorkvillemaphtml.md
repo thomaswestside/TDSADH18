@@ -55,7 +55,7 @@
 <br>
 <br>
 </br>
-		<a href = "../docs/Yorkvillemap">This is a link to the annotated Markdown page</a><sup><a href="#fn2" id="ref2">2</a></sup> 
+		<a href = "../docs/Yorkvillemap.md">This is a link to the annotated Markdown page</a><sup><a href="#fn2" id="ref2">2</a></sup> 
 <br>
 <br>
 </br>
